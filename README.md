@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbardasib
-- 👀 I’m interested in security and programming
-- 🌱 I’m currently learning Python and has some interests about learning Go and Rust
-- 💞️ I’m looking to collaborate on security related projects
+- 👀 I’m interested in __security__ and __programming__
+- 🌱 I’m currently learning __Python__ and has some interests about learning __Golang__ and __Rust__
+- 💞️ I’m looking to collaborate on __security related projects__
 - 📫 How to reach me ... You can't :sweat_smile:
 
 <!---
